@@ -13,6 +13,10 @@ h3 {
     color: rgb(59, 59, 59);
 }
 
+.small-size {
+    font-size: 10px;
+}
+
 .color {
     color: rgb(98, 43, 226);
 }
@@ -42,6 +46,6 @@ section {
 .top-banner {
     background: url(images/top-bg.png);
     background-repeat: no-repeat;
-    background-size: 80%;
+    background-size: contain;
 
 }
