@@ -90,3 +90,7 @@ h3 {
 #full-stack-developer {
     border-left: 7px solid rgb(98, 43, 226);
 }
+
+footer p {
+    text-align: center;
+}
