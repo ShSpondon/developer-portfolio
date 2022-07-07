@@ -26,7 +26,7 @@ h3 {
     color: rgb(98, 43, 226);
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 50px;
 }
